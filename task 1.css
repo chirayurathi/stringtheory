@@ -5,6 +5,9 @@ body{
     background-repeat: no-repeat;
     margin: 0;
 }
+#jumb{
+    font-size: 4em;
+}
 #heade{
     font-family: 'Tangerine', serif;
     font-size: 7em;
