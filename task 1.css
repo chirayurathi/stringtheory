@@ -18,9 +18,9 @@ body{
     
 }
 .jumbotron{
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 4%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
     box-shadow:0 9px 16px -6px black;
     opacity: 0.9;
 }
